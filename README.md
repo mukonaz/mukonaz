@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mukonaz
-- 👀 I’m interested in learning Front End 
-- 🌱 I’m currently learning Front End 
+- 👀 I’m interested in learning Back end developer
+- 🌱 I’m currently learning back end developer 
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me livhumukona9@gmail.com 
 
