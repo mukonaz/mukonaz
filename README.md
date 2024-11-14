@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @mukonaz<br>👀 I’m interested in learning Back end developer<br>🌱 I’m currently learning back end developer<br>💞️ I’m looking to collaborate on projects<br>📫 How to reach me livhumukona9@gmail.com
+👋 Hi, I’m @mukonaz<br>👀 I’m interested in learning Back end developer<br>🌱 I’m currently learning Full stack development<br>💞️ I’m looking to collaborate on projects<br>📫 How to reach me livhumukona9@gmail.com
 
 
 # 💻 Tech Stack:
